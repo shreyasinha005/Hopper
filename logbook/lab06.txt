@@ -1,0 +1,5 @@
+LAB 6 LOGBOOK - <Shreya Sinha> - <e26b07f0751>
+SETUP: my working directory is ???
+SETUP: my working directory is /Users/shreyasinha/nst/labs/lab06-os-and-filesystem
+T1 prediction: I think ls / will show about ??? items
+T1 prediction: I think ls / will show about 20  items
